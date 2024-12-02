@@ -33,6 +33,9 @@ slotframe.columnconfigure(2,weight=1)
 
 slotframe.pack()
 
+cost= tk.Label(win,text="Spin Cost: $10", font=('arial',20))
+cost.pack()
+
 money_label = tk.Label(win, text=f"Money: ${money[0]}", font=('arial', 20))
 money_label.pack()
 
