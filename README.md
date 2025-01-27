@@ -7,6 +7,7 @@ Download and run main.exe.
   2) select View Raw.
   3) Allow the web browser to download the file.
       IMPORTANT!!!!
+
     -pyinstaller gets flagged from anti-virus, If you are going to run the file you must add the file to your anti-virus exceptions list.
   4) From file explorer click on downloaded file to run.
 
