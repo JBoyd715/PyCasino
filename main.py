@@ -15,10 +15,10 @@ def load_image(image_path):
     return ImageTk.PhotoImage(img)
 
 #Initialize Images
-ora = load_image("C:/PyCasino/images/orange.jpg")
-ban = load_image("C:/PyCasino/images/ban.jpg")
-grape = load_image("C:/PyCasino/images/grape.jpg")
-base = load_image("C:/PyCasino/images/win.jpg")
+ora = load_image("C:/PyCasino/PyCasino/images/orange.jpg")
+ban = load_image("C:/PyCasino/PyCasino/images/ban.jpg")
+grape = load_image("C:/PyCasino/PyCasino/images/grape.jpg")
+base = load_image("C:/PyCasino/PyCasino/images/win.jpg")
 
 money= [300]
 
